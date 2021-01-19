@@ -7,7 +7,7 @@ The COVID-Net app is being developed by DarwinAI in close collaboration with the
 
 ### Installation
 
-#### get the ChRIS plugins at the following repos
+#### Getting the ChRIS plugins at the following repos
 
 Please follow the setup instruction in pl-covidnet's README and pl-CT-covidnet's README to put the pretained models in the required folder
 
